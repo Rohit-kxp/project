@@ -1,4 +1,3 @@
-
 Atomic
 Number	Name	Atomic Weight
 1   Hydrogen    1.00797
